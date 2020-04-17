@@ -1,3 +1,6 @@
+### Deploying node api in now
+* https://nodejs-api-zeit.eisson.now.sh/api/comments
+
 ### api in zeit.co
 
 * https://zeit.co/docs/v2/serverless-functions/introduction
